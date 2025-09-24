@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview  
 This project focuses on **image preprocessing and denoising** for a **Pistachio dataset**.  
-The aim is to clean and prepare the images so they can be used effectively in **deep learning models (e.g., CNN)** for classification or analysis.  
+The aim is to clean and prepare the images so they can be used effectively in **deep learning models (CNN)** for classification or analysis.  
 
 ---
 
